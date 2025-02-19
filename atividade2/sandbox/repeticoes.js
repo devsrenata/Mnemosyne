@@ -8,6 +8,16 @@
 
  }
 
+ let divDelogs = document.querySelector(".logs");
+
+ let paragrafo = document.createElement("p");
+
+ paragrafo.innerHTML= "Exercicio 01 de repeticao executado.";
+
+ divDelogs.appendChild(paragrafo);
+
+ console.log(divDelogs);
+
 }
 
 
