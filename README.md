@@ -1,2 +1,2 @@
 # Mnemosyne
-Trabalho de um site para guardar fotografias
+Trabalho de um site para guardar fotografias criado com React
